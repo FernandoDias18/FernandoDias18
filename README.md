@@ -4,7 +4,7 @@
 - 🌱 Estou cursando o 2°Período de Engenharia de Software
 - 📫 Meu e-mail: fernandodiasf01@gmail.com
 
-
+##
 
 
  <div>
@@ -19,6 +19,7 @@
   <img align="center" alt="Fer-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Fer-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Fer-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="right" alt="Rafa-yoda" src="https://media1.giphy.com/media/mCRJDo24UvJMA/200.gif?cid=5a38a5a2la1jz20mqbpxvv8sh8e17jv99wb93ejy4p0riapo&rid=200.gif">
 </div>
   
   ##
