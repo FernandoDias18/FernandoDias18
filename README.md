@@ -3,7 +3,7 @@
 ##
 
 - 🔭 Atualmente estou participando do projeto de PIBIC
-- 🌱 Estou cursando o 2°Período de Engenharia de Software
+- 🌱 Estou cursando o 3°Período de Engenharia de Software
 - 📫 Meu e-mail: fernandodiasf01@gmail.com
 
 ##
