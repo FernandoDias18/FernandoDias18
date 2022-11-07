@@ -2,7 +2,7 @@
 
 ##
 
-- 🔭 Analista de Qualidade PUCPR
+- 🔭 Analista de Qualidade na PUCPR
 - 🌱 Estou cursando o 4°Período de Engenharia de Software
 - 📫 Meu e-mail: fernandodiasf01@gmail.com
 
